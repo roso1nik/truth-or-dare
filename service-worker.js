@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/truth-or-dare/precache-manifest.04436c0f768f23a20dba84532545cf56.js"
+  "/truth-or-dare/precache-manifest.1967ba2ad6a862093b244610b9c92e1c.js"
 );
 
 workbox.clientsClaim();
